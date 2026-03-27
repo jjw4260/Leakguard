@@ -5,7 +5,7 @@
 - **Student No:** 22313531
 - **Name:** 전정웅
 - **E-Mail:** jjy4260@yu.ac.kr
-
+- **address:** https://github.com/jjw4260/Leakguard/edit/main/Conceptualization_%5B22313531_%EC%A0%84%EC%A0%95%EC%9B%85%5D.md
 ---
 
 ## 1. Business Purpose
