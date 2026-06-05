@@ -11,7 +11,7 @@
 | Name | 전정웅 |
 | E-Mail | jjy4260@yu.ac.kr |
 | Project Name | Leakguard |
-| Document Type | Analysis Document |
+| Document Type | Conceptualization Document |
 | System Type | LLM PII Leakage Diagnostic System |
 
 ---
