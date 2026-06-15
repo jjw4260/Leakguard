@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+requests
+openai
+torch
+transformers
+huggingface-hub
+tqdm
+pyinstaller
+PySide6

@@ -1,0 +1,7 @@
+학번 및 이름: 22313531 전정웅
+
+GitHub Repository 주소: [본인 GitHub repository 주소 입력]
+
+첨부 파일:
+- SRDP_Assignment_22313531_REPACK_SourceCode.zip
+- 실행 가능한 배포 파일 또는 빌드 결과물
